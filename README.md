@@ -1,4 +1,4 @@
-![Banner]([https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile](https://i.ibb.co.com/KhVBNWS/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.png))  
+![Banner](https://i.ibb.co/KhVBNWS/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.png)
 
 # 👋 Hi, I'm Sajjad Hossain!  
 
