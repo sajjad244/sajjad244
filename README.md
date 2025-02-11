@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Sajjad Hossain!  
 
 
-I’m a **Front-End Developer** passionate about creating dynamic and user-friendly web applications.  
+I’m a **Web Developer** passionate about creating dynamic and user-friendly web applications.  
 
 ---
 
